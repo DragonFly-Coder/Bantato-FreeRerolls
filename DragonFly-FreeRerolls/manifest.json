@@ -1,0 +1,17 @@
+{
+	"name": "FreeRerolls",
+	"namespace": "DragonFly",
+	"version_number": "0.0.1",
+	"description": "Change the charge of Rerolls to FREE",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["DragonFly"],
+			"compatible_mod_loader_version": "3.0.0",
+			"compatible_game_version": ["0.8.0.3"],
+			"config_defaults": {}
+		}
+	}
+}
